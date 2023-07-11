@@ -334,6 +334,7 @@ int main(){
     scanf("%i", &userNum);
 
     //Out the number the user typed 
+    
     printf("Your number is: %i\n", userNum);
 
 
@@ -348,11 +349,12 @@ int main(){
 
     char firstname[30];
 
-    printf("Ënter your first name");
+    printf("Enter your first name\n");
 
     scanf("%s", firstname);
 
     //output the text
-    printf("Hello %s", firstname);
+    printf("Hello %s\n", firstname);
+
 
 }

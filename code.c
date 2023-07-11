@@ -26,6 +26,6 @@ int main(){
 
     printf("The value is %i and the memory address is %i \n", value, pointer);
 
-    
+
 
 }
